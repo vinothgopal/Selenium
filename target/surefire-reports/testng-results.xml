@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="20913" started-at="2020-02-09T18:23:30 IST" finished-at="2020-02-09T18:23:51 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="20913" started-at="2020-02-09T18:23:30 IST" finished-at="2020-02-09T18:23:51 IST">
+      <class name="Sample.Demo.NewTest">
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="bf" is-config="true" duration-ms="2" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="f" duration-ms="0" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="bf1" is-config="true" duration-ms="2" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="fff()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="fff" duration-ms="1" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="bf" is-config="true" duration-ms="0" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="bf1" is-config="true" duration-ms="6" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="bf" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="tf()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="tf" duration-ms="0" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tf -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.NewTest@3159c4b8]" name="bf1" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+      </class> <!-- Sample.Demo.NewTest -->
+      <class name="Sample.Demo.Demo1">
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="bf" is-config="true" duration-ms="12" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="f" duration-ms="7" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="bf1" is-config="true" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="bf" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="fff()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="fff" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="bf1" is-config="true" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="bf" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="tf()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="tf" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tf -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.Demo1@69ea3742]" name="bf1" is-config="true" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+      </class> <!-- Sample.Demo.Demo1 -->
+      <class name="Sample.Demo.Demo2">
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="bf" is-config="true" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="f()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="f" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="bf1" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="bf" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="fff()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="fff" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fff -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="bf1" is-config="true" duration-ms="0" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+        <test-method status="PASS" signature="bf()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="bf" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf -->
+        <test-method status="PASS" signature="tf()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="tf" duration-ms="20692" started-at="2020-02-09T18:23:31 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tf -->
+        <test-method status="PASS" signature="bf1()[pri:0, instance:Sample.Demo.Demo2@4b952a2d]" name="bf1" is-config="true" duration-ms="1" started-at="2020-02-09T18:23:51 IST" finished-at="2020-02-09T18:23:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bf1 -->
+      </class> <!-- Sample.Demo.Demo2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
